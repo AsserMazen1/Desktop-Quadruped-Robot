@@ -1,5 +1,5 @@
 # Project-Stellar
-Micro Robot Inspired by the Micro Sesame Project
+Micro Robot Inspired by the Micro Sesame Project: https://github.com/dorianborian/sesame-robot-micro
 
 # Parts:
 ## Movement:
