@@ -1,6 +1,6 @@
 # Desktop-Quadruped-Robot
 (This repositry is not up to date)
-A Micro Robot Inspired by the Micro Sesame Project: https://github.com/dorianborian/sesame-robot-micro
+A Robot Inspired by the Micro Sesame Project: https://github.com/dorianborian/sesame-robot-micro
 
 But with the aim of making a version that has autonomus capabalities such as robots like Cosmo or Vector (by Anki)
 
