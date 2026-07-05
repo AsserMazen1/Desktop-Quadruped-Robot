@@ -16,7 +16,9 @@ IMU: GY-9250
 TOF: TOF200C-VL53L0X
 
 ## Main:
-Communicator (1x): Luckfox pico mini linux rv1103
+Communicator (1x): ESP32-s3-CAM
+
+"Spinal Cord" (1x): ESP32 s3 Zero
 
 Screan (1x): ER-OLEDMO_49
 
